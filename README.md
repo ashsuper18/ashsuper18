@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashsuper18
+- 👋 Hi, I’m Ashish Kumar
 - 👀 I’m interested in Web Designing.
 - 🌱 I’m currently learning Python, C and UX Designing.
 - 📫 How to reach me: MailId: it.is.akumar@gmail.com
