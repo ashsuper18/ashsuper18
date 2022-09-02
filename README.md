@@ -1,5 +1,5 @@
 <p align="center"> 
- <img src="https://github.com/ashsuper18/ashsuper18/blob/master/Git.png?raw=true"/> 
+ <img src="https://github.com/ashsuper18/ashsuper18/blob/master/Headimg.png?raw=true"/> 
 </p>
 <p align="center"><br>
 - 🌱 I’m currently learning Machine Learing and Graphic Designing
