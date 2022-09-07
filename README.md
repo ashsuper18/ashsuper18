@@ -4,11 +4,11 @@
 <p align="center"><br>
 - 🌱 I’m currently learning Machine Learing and Graphic Designing
 <p align="center">
-- 👨‍💻 My Website https://ashsuper18.github.io/MyWebsite/
+- 👨‍💻 My Website: https://ashsuper18.github.io/MyWebsite/
 <p align="center">
 - 📫 How to reach me: ashsuper18@gmail.com 
 <p align="center">
-- ⚡ Fun fact I like to travel
+- ⚡ Fun fact: I like to travel
  
  ---
  
