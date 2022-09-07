@@ -3,11 +3,11 @@
 </p>
 <p align="center"><br>
 - 🌱 I’m currently learning Machine Learing and Graphic Designing
-<p align="center"><br>
+<p align="center">
 - 👨‍💻 My Website https://ashsuper18.github.io/MyWebsite/
-<p align="center"><br>
+<p align="center">
 - 📫 How to reach me: ashsuper18@gmail.com 
-<p align="center"><br>
+<p align="center">
 - ⚡ Fun fact I like to travel
 
 <h3 align="left">Languages and Tools:</h3>
