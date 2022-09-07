@@ -17,7 +17,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashsuper18&show_icons=true&locale=en&layout=compact" alt="ashsuper18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashsuper18&" alt="ashsuper18" /></p>
+<!--- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashsuper18&" alt="ashsuper18" /></p> -->
+
 
 <h2 align="center">Connect with me<br>
 <img src="https://media.giphy.com/media/rBfbQLEndsq8wJ095C/giphy.gif" width=170>
