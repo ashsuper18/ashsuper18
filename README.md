@@ -1,5 +1,5 @@
 <p align="center"> 
- <img src="https://pbs.twimg.com/profile_banners/997789991869743105/1662542368/1080x360"/> 
+ <img src="https://pbs.twimg.com/profile_banners/997789991869743105/1662542368/1080x360" width="700" height="230"/> 
 </p>
 <p align="center"><br>
 - 🌱 I’m currently learning Machine Learing and Graphic Designing
