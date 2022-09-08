@@ -2,7 +2,9 @@
  <img src="https://pbs.twimg.com/profile_banners/997789991869743105/1662542368/1080x360" width="690" height="220"/> 
 </p>
 <p align="center"><br>
-- 🌱 I’m currently learning Machine Learing and Graphic Designing
+- 🌱 Hey everyone!! I am currently doing #100DaysOfCode in #Python You can support me on [Twitter](https://twitter.com/ashsuper18)
+<p align="center">
+- 📈 I’m currently learning Machine Learing and Graphic Designing
 <p align="center">
 - 👨‍💻 My Website: https://ashsuper18.github.io/MyWebsite/
 <p align="center">
