@@ -1,5 +1,5 @@
 <p align="center"> 
- <img src="https://pbs.twimg.com/profile_banners/997789991869743105/1662542368/1080x360" width="690" height="225"/> 
+ <img src="https://pbs.twimg.com/profile_banners/997789991869743105/1662542368/1080x360"/> 
 </p>
 <p align="center"><br>
 - 🌱 I'm currently doing #100DaysOfCode in Python You can support me on https://twitter.com/ashsuper18
