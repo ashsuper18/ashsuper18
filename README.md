@@ -41,13 +41,13 @@
 </p>
 </h2>
 <p align="center">
-<a href="mailto: ashsuper18@gmail.com">
+<a href="mailto: ashsuper18@gmail.com" target="_blank">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/ashishk123/">
+<a href="https://www.linkedin.com/in/ashishk123/" target="_blank">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitter.com/ashsuper18">
+<a href="https://twitter.com/ashsuper18" target="_blank">
  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 
