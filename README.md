@@ -1,60 +1,153 @@
-<p align="center"> 
- <img src="https://pbs.twimg.com/profile_banners/997789991869743105/1662542368/1080x360"/> 
-</p>
-<!-- <p align="center"><br>
-<!-- - 🌱 I'm currently doing #100DaysOfCode in Python You can support me on https://twitter.com/ashsuper18 -->
 <p align="center">
-- 📈 I’m currently learning Machine learning and Graphic Designing
-<p align="center">
-- 👨‍💻 My Website: https://ashsuper18.github.io/MyWebsite/
-<p align="center">
-- 📫 How to reach me: ashsuper18@gmail.com 
-<p align="center">
-- ⚡ Fun fact: I like to travel
- 
- ---
- 
-<h3 align="center">Languages and Tools</h3><br>
-
-<p align="center">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&amp;logo=azure-devops&amp;logoColor=white" alt="Azure"> <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&amp;logo=heroku&amp;logoColor=white" alt="Heroku"> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&amp;logo=anaconda&amp;logoColor=white" alt="Anaconda"> <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&amp;logo=angularjs&amp;logoColor=white" alt="Angular.js"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask"> <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&amp;logo=plotly&amp;logoColor=white" alt="Plotly"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy">
+  <a href="https://ashsuper18.github.io/MyWebsite/">
+    <img src="./Headimg.png" alt="Ashish Kumar Banner" width="100%" />
+  </a>
 </p>
 
-
-
 <p align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Ashsuper18&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</a>
+  <a href="https://ashsuper18.github.io/MyWebsite/">
+    <img src="https://img.shields.io/badge/Live_Portfolio-Website-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/ashishk123/">
+    <img src="https://img.shields.io/badge/LinkedIn-ashishk123-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ashishkumar15183@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ashishkumar15183@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Ashsuper18&label=Profile%20Views&color=0&icon=0&pretty=true" alt="Profile Views" />
+  </a>
 </p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashsuper18&show_icons=true&locale=en&layout=compact" alt="ashsuper18" /></p>
-
-
-
-<!--- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashsuper18&" alt="ashsuper18" /></p> -->
 
 ---
 
-<h2 align="center">Connect with me<br>
-<img src="https://media.giphy.com/media/rBfbQLEndsq8wJ095C/giphy.gif" width=170>
-</p>
-</h2>
 <p align="center">
-<a href="mailto: ashsuper18@gmail.com" target="_blank">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/ashishk123/" target="_blank">
- <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://twitter.com/ashsuper18" target="_blank">
- <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-</a>
+  <a href="https://ashsuper18.github.io/MyWebsite/">
+    <img src="./ai-young-businessman-holding-resume-for-job-interview-and-recruitment-3d-illustration-png-download-jpg-13168116.webp" alt="Ashish Kumar" width="150" />
+  </a>
+</p>
 
-<!---
- <a href="https://www.instagram.com/astha____________/">
- <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
+<h1 align="center">Hi, I'm Ashish Kumar 👋</h1>
+<h3 align="center">Data & Incentive Compensation Analyst | Commercial Analytics & Automation</h3>
 
--->
+<p align="center">
+  <em>Turning complex commercial data into clear decisions, automated processes, and measurable business outcomes.</em>
+</p>
+
+<p align="center">
+  <strong>Data → Automation → Impact</strong>
+</p>
+
+---
+
+### ⚡ Measurable Value & Impact
+
+| Metric | Outcome & Scope |
+| :---: | :--- |
+| **⚡ 98%** | **Manual Effort Cut** on selected incentive validation workflows and data pipelines |
+| **⏳ 4+ Years** | **Commercial Analytics Experience** spanning pharma operations, sales compensation, and BI |
+| **🚀 60%+** | **Faster Report Turnaround** eliminating recurring multi-hour manual cycles via Python & Excel |
+| **🎯 99.8%** | **Attainment QC Accuracy** achieved through automated validation and reconciliation frameworks |
+| **🌐 Global** | **Pharma Commercial Exposure** collaborating across US and European market stakeholders |
+
+---
+
+### 💼 Professional Experience
+
+- 🏢 **Analyst – Incentive Compensation** @ **[Sanofi](https://www.sanofi.com/)** *(2025 – Present | Hyderabad, India)*
+  - Lead incentive compensation analytics, sales crediting, attainment calculations, and automated validation frameworks for commercial teams.
+  - Implement Python- and Excel-driven automation, Power BI reporting, and AI-assisted workflow acceleration.
+  - Maintain data quality, reconciliation, and exception-handling for commercial operations.
+
+- 🏢 **Data Analyst** @ **[Indegene](https://www.indegene.com/)** *(2022 – 2025 | Bangalore / Hybrid)*
+  - Delivered pharma commercial analytics, HCP segmentation, territory alignment, and reporting models.
+  - Automated recurring commercial insights using Power BI, SQL, BigQuery, and Python data matching.
+  - Partnered cross-functionally with brand and sales operations teams across US/EU markets.
+
+- 🏢 **Finance Analytics Intern** @ **[HighRadius](https://www.highradius.com/)** *(2022 | Hyderabad, India)*
+  - Built financial analytics and collections reports using Excel and SQL, supporting data reconciliation.
+
+---
+
+### 🛠️ Skills & Tech Stack
+
+<p align="left">
+  <strong>📈 Analytics & Scripting:</strong><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/VBA%20%2F%20Macros-107C41?style=for-the-badge&logo=microsoft&logoColor=white" alt="VBA" />
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Query" />
+</p>
+
+<p align="left">
+  <strong>📊 Business Intelligence & Visualization:</strong><br>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/KPI_Reporting-008080?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="KPI Reporting" />
+</p>
+
+<p align="left">
+  <strong>🗄️ Cloud & Enterprise Data:</strong><br>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
+</p>
+
+<p align="left">
+  <strong>💼 Commercial & Domain Focus:</strong><br>
+  <img src="https://img.shields.io/badge/Incentive_Compensation-1E293B?style=for-the-badge&logo=databricks&logoColor=white" alt="Incentive Compensation" />
+  <img src="https://img.shields.io/badge/Sales_Crediting_&_Attainment-0F766E?style=for-the-badge&logo=target&logoColor=white" alt="Attainment" />
+  <img src="https://img.shields.io/badge/HCP_Segmentation-4338CA?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="HCP Segmentation" />
+  <img src="https://img.shields.io/badge/Territory_Alignment-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Territory Alignment" />
+  <img src="https://img.shields.io/badge/Data_Quality_&_QC-047857?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Data Quality" />
+</p>
+
+---
+
+### 📂 Featured Portfolio Case Studies
+
+| Project | Focus Area | Description & Outcomes |
+| :--- | :---: | :--- |
+| [**Incentive Compensation Automation**](https://ashsuper18.github.io/MyWebsite/#projects) | `Incentive Ops` `Automation` | Automated end-to-end sales compensation workflows across targets, attainment, calculation, and reporting. **Cut repetitive manual effort by up to 98%**. *(Python · Excel · Power BI · SQL)* |
+| [**Sales & Goal Validation Tool (QC Engine)**](https://ashsuper18.github.io/MyWebsite/#projects) | `QC Framework` `Data Quality` | Built a Python validation engine comparing sales, goals, and territory rosters to flag anomalies and exceptions prior to payout cycles. *(Python · Pandas · Excel)* |
+| [**Pharma KPI & Commercial BI**](https://ashsuper18.github.io/MyWebsite/#projects) | `Executive BI` `Reporting` | Integrated multi-brand performance reporting across KPIs, targets, product mixes, and incentive dynamics for commercial decision-makers. *(Power BI · SQL · Excel)* |
+| [**HCP Segmentation & Territory Alignment**](https://ashsuper18.github.io/MyWebsite/#projects) | `Commercial Ops` `Field Strategy` | Segmented healthcare providers and structured territory alignment data to provide actionable field targeting context for sales operations. *(Python · Excel · Analytics)* |
+| [**Automated Data Matching Engine**](https://ashsuper18.github.io/MyWebsite/#projects) | `Data Engineering` `Fuzzy Matching` | Developed similarity-based and fuzzy reconciliation pipelines to match legacy and disparate commercial datasets with minimal manual review. *(Python · Pandas · Cosine Similarity)* |
+
+👉 *Explore the interactive simulations, playground, and case study modals on my [live portfolio website](https://ashsuper18.github.io/MyWebsite/).*
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashsuper18&show_icons=true&theme=tokyonight&hide_border=true" alt="Ashish's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashsuper18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📬 Get In Touch
+
+<p align="center">
+  <a href="https://ashsuper18.github.io/MyWebsite/#contact">
+    <img src="https://img.shields.io/badge/Portfolio_Contact_Form-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ashishk123/">
+    <img src="https://img.shields.io/badge/LinkedIn-ashishk123-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ashishkumar15183@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ashishkumar15183@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/ashsuper18">
+    <img src="https://img.shields.io/badge/GitHub-ashsuper18-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Open to global analytics, commercial operations, and incentive compensation opportunities.</sub>
 </p>
